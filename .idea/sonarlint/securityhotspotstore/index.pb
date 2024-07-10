@@ -33,3 +33,6 @@ A
 src/HW/2/3..txt,a\2\a223cb91e12db716bb4e9a084deb5c787af32e32
 >
 src/HW/2/4.txt,7\3\735680f91e1285243368516cb792de88ed6bed4c
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
