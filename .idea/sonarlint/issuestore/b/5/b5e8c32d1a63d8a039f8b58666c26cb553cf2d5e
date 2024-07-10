@@ -1,0 +1,8 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Α½π‰2
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Α½π‰2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ί‘ƒϋÿÿÿÿ8„Α½π‰2
+a
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(ο­£Δ8“Α½π‰2
+^
+java:S3457""AFormat specifiers should be used instead of string concatenation.(ϋγη8Α½π‰2

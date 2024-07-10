@@ -1,0 +1,10 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ààºğ‰2
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ààºğ‰2
+|
+java:S1598"ZThis file "Game.java" should be located in "HW" directory, not in "D:\Task\src\HW\Task_1".(·À‰ÿøÿÿÿÿ8Áàºğ‰2
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·À‰ÿøÿÿÿÿ
+a
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(ï­£Ä8Óàºğ‰2
+^
+java:S3457""AFormat specifiers should be used instead of string concatenation.(ûãç8Öàºğ‰2
